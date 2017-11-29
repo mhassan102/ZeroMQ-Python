@@ -1,5 +1,6 @@
 import zmq
 import time
+import os
 
 # ZeroMQ Context
 context = zmq.Context()

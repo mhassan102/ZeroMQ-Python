@@ -1,7 +1,7 @@
 import zmq
 import time
 
-# ZeroMQ Context
+## ZeroMQ Context
 context = zmq.Context()
 
 # Define the socket using the "Context"

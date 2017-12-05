@@ -1,4 +1,4 @@
-################################################### ZeroMQ-Python
+################################################## ZeroMQ-Python
 
 Python zeromq example for PUB/SUB and PUSH/PULL case
 

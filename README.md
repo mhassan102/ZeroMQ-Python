@@ -1,5 +1,5 @@
-	
-![image title](https://ci.appveyor.com/project/mhassan102/quilt-compiler?svg=true&passingText=master%20-%20OK&failingText=master%20-%20Fails)
+Build Status: [![linux/mac](https://travis-ci.org/quiltdata/quilt-compiler.svg?branch=master)](https://travis-ci.org/quiltdata/quilt-compiler) [![windows]][https://ci.appveyor.com/api/projects/status/github/Mudlet](https://ci.appveyor.com/api/projects/status/github/Mudlet) 
+
 
 ## ZeroMQ-Python
 

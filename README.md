@@ -1,5 +1,5 @@
 	
-![image title](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK&failingText=master%20-%20Fails)(https://travis-ci.org/quiltdata/quilt-compiler)
+![image title](https://ci.appveyor.com/project/mhassan102/quilt-compiler?svg=true&passingText=master%20-%20OK&failingText=master%20-%20Fails)
 
 ## ZeroMQ-Python
 

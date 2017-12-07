@@ -1,4 +1,4 @@
-Build Status: [![linux/mac](https://travis-ci.org/quiltdata/quilt-compiler.svg?branch=master)](https://travis-ci.org/quiltdata/quilt-compiler) [![https://ci.appveyor.com/api/projects/status/github/Mudlet](https://ci.appveyor.com/api/projects/status/github/Mudlet) 
+Build Status: [![linux/mac](https://travis-ci.org/quiltdata/quilt-compiler.svg?branch=master)](https://travis-ci.org/quiltdata/quilt-compiler) [![https://ci.appveyor.com/project/mhassan102/quilt-compiler](https://ci.appveyor.com/project/mhassan102/quilt-compiler) 
 
 
 ## ZeroMQ-Python
